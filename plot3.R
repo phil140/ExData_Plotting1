@@ -5,3 +5,4 @@ For each plot you should
     Name each of the plot files as plot1.png, plot2.png, etc.
     Create a separate R code file (plot1.R, plot2.R, etc.) that constructs the corresponding plot, i.e. code in plot1.R constructs the plot1.png plot. Your code file should include code for reading the data so that the plot can be fully reproduced. You must also include the code that creates the PNG file.
     Add the PNG file and R code file to the top-level folder of your git repository (no need for separate sub-folders)
+2a7704a1e1867ced1f1001ea43d38ab4b01e9eb7
