@@ -26,6 +26,7 @@ g<-project1_getdata(tmpdir)
 
 # plot1
 png(filename = paste0(outdir,"/plot1.png"), width = 480, height = 480)
+title(main = "Plot 1")
 hist(g$Global_active_power,freq=TRUE,col = "red",main = "Global Active Power", xlab ="Global Active Power (kilowatts)")
 dev.off()
 # done
